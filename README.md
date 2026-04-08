@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on full-stack MERN projects and AI-integrated applications.<br>👯 I’m looking to collaborate on innovative hackathon projects.  <br>🌱 I’m currently learning system design, machine learning basics, and scalable web development.<br>⚡ Half my project ideas come at night… the other half never let me sleep.
+I’m currently working on full-stack MERN projects and AI-integrated applications.<br>I’m looking to collaborate on innovative hackathon projects.  <br>I’m currently learning system design, machine learning basics, and scalable web development.<br>Half my project ideas come at night… the other half never let me sleep.
 
 
 ## Socials:
